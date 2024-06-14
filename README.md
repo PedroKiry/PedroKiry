@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boa Tarde Pai 🏠
 
-<!--
-**PedroKiry/PedroKiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu Nome é Pedro Henrique.🤙
 
-Here are some ideas to get you started:
+- **eu edito videos;** 📹
+- **eu gosto de sonic;** 🦔
+- **eu gosto muito demais de musica;** 🎵
+- **eu gosto de basquete;** 🏀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Se quiser Bater um Papo
+
+Email: pedrohotmil856@gmail.com
+
+Instagram: @kiry.ped
+
+![](https://media1.tenor.com/m/tA-yaIl0r_MAAAAC/tell-me-more-gwain-saga.gif)
